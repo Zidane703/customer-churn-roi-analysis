@@ -1,5 +1,6 @@
 <div align="center">
   <h1>📊 Customer Churn & Marketing ROI Analysis</h1>
+  <h2> Author: Lalu Zidane Alif Akbar</h2>
   
   <p>
     <img src="https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
