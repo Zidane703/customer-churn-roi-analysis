@@ -26,7 +26,6 @@ The churn metric is calculated objectively based on users who have not made any 
 <div align="center">
   <img src="reports/churn_rate_table.png" alt="Churn Rate Analysis Table" width="800">
   <br>
-  <a href="reports/churn_rate_table.html"><b>📄 Open Source File: Churn Rate HTML Format</b></a>
 </div>
 <br>
 
@@ -41,7 +40,6 @@ This analysis measures the actual impact of the campaign by isolating the revenu
 <div align="center">
   <img src="reports/roi_analysis_table.png" alt="ROI Analysis Table" width="800">
   <br>
-  <a href="reports/roi_analysis_table.html"><b>📄 Open Source File: ROI Analysis HTML Format</b></a>
 </div>
 <br>
 
