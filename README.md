@@ -74,3 +74,14 @@ Customer-Churn-ROI-Analysis/
 │   ├── roi_analysis_table.html   # Exported ROI table (HTML format)
 │   └── roi_analysis_table.png    # Visual asset for ROI analysis
 └── README.md                     # Portfolio documentation
+
+
+## 🔒 Data Accessibility & Contact
+Due to data privacy protocols and storage optimization, the raw database (`churn_roi_project.db`) and the complete extracted `.csv` datasets are not publicly hosted in this repository. 
+
+If you are a recruiter, hiring manager, or fellow data professional interested in exploring the raw datasets, running the queries, or replicating this analysis, I would be more than happy to share the data pack with you upon request.
+
+📫 **Let's connect:**
+* **Name:** Lalu Zidane Alif Akbar
+* **Email:** zidanetechlombok@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/lalu-zidane-b89395229/
